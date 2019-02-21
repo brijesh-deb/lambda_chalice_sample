@@ -10,7 +10,7 @@
 #### Local test
 - Go to project directory
 - *chalice local*
-- *curl -x GET http://localhost:8000 *
+- *curl -x GET http://localhost:8000*
 #### Deploy on AWS Lambda
 - Set AWS credential in ~/.aws/config
 ```
